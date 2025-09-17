@@ -1,5 +1,5 @@
 # git_training
 "Changes"
-Change
+Change -sasd 
 New change - Conflict 
 New changev2 
