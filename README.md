@@ -1,3 +1,4 @@
 # git_training
 "Changes"
-New change
+New change - Conflict 
+New changev2 
